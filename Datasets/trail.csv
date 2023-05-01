@@ -1,0 +1,105 @@
+trail_id,trail_name,park_code,city_name
+10006208,The Beehive Loop Trail,ACAD,Bar Harbor
+10006042,Cadillac North Ridge Trail,ACAD,Bar Harbor
+10012464,Delicate Arch Trail,ARCH,Moab
+10031103,Devils Garden Loop Trail with 7 Arches,ARCH,Thompson
+10235471,Notch Trail,BADL,Interior
+10236013,Castle Trail,BADL,Interior
+10004933,Lost Mine Trail,BIBE,Big Bend National Park
+10009732,The Window Trail,BIBE,Terlingua
+10034730,Biscayne National Park Walk,BISC,Miami
+10294502,Black Creek Canal Trail,BISC,Homestead
+10456353,Tomichi Trail,BLCA,Cimarron
+10325907,Dead Horse Trail,BLCA,Crawford
+10268140,Sheep Creek Connector Trail,BRCA,Bryce
+10017437,Agua Canyon Connecting Trail,BRCA,Bryce
+10032796,Mesa Arch Trail,CANY,Moab
+10041100,Grand View Point Trail,CANY,Moab
+10004146,Hickman Bridge Trail,CARE,Torrey
+10015413,Cassidy Arch Trail,CARE,Torrey
+10236113,Juniper Ridge Trail,CAVE,Carlsbad
+10324970,Rattlesnake Canyon,CAVE,Carlsbad
+10035721,Potato Harbor Trail,CHIS,Ventura
+10035722,Scorpion Bay to Cavern Point Loop,CHIS,Ventura
+10015941,Arch Point Loop Trail,CHIS,Malibu
+10023320,Boardwalk Loop Trail,CONG,Hopkins
+10007467,Weston Lake Loop Trail,CONG,Hopkins
+10000482,Garfield Peak Trail,CRLA,Crater Lake
+10038157,The Watchman Peak Trail,CRLA,Crater Lake
+10032574,Ledges Trail,CUVA,Hudson
+10235835,Brandywine Gorge Trail,CUVA,Northfield
+10006688,Badwater Basin Salt Flats Trail,DEVA,Death Valley
+10402715,Thimble Peak Trail,DEVA,Beatty
+10236086,Mount Healy Overlook Trail,DENA,Denali National Park
+10236076,Horseshoe Lake Trail,DENA,Denali National Park
+10025862,Fort Jefferson Loop,DRTO,Key West
+10038836,Shark Valley Trail,EVER,Miami
+10001023,Anhinga Trail,EVER,Homestead
+10262541,Bartlett Cove Forest Loop Trail,GLBA,Gustavus
+10302108,Bartlett River Trail,GLBA,Gustavus
+10005697,Grinnell Glacier Trail,GLAC,Babb
+10478760,Nyack Creek,GLAC,West Glacier
+10004120,Grandview Trail Loop,GRCA,Grand Canyon
+10006500,Hermit Trail,GRCA,Grand Canyon
+10000719,Cascade Canyon Trail,GRTE,Moose
+10235870,Jenny Lake Trail,GRTE,Moose
+10236212,Wheeler Peak Trail via Stella Lake Trail,GRBA,Baker
+10026784,Alpine Lakes Trail,GRBA,Baker
+10028402,High Dune Trail,GRSA,Mosca
+10507386,High and Star Dune Loop,GRSA,Mosca
+10365517,Gold Mine Trail,GRSM,Tallassee
+10245723,Crooked Arm Scott Mountain Trail,GRSM,Townsend
+10004318,Marcus Trail,GUMO,Salt Flat
+10271501,Tejas Trail to Mckittrick Canyon,GUMO,Salt Flat
+10005997,Pipiwai Trail and Waimoku Falls,HALE,Hana
+10002035,Sliding Sands Trail,HALE,Kula
+10010442,Kilauea Iki Trail and Crater Rim Trail,HAVO,Pahala
+10266617,Kalapana Lava Viewing,HAVO,Pahoa
+10041922,Sunset Trail,HOSP,Hot Springs National Park
+10235890,West Mountain Trail,HOSP,Hot Springs National Park
+10236223,Greenstone Ridge Trail: Windigo to Tobin Harbor,ISRO,Mohawk
+10012657,Rainbow Cove Trail,ISRO,Saint Louis
+10011170,Ryan Mountain Trail,JOTR,Twentynine Palms
+10031888,Barker Dam Nature Trail,JOTR,Twentynine Palms
+10347459,Brooks Falls,KATM,King Salmon
+10513937,Dumpling Mountain,KATM,Kodiak
+10020048,Harding Ice Field Trail,KEFJ,Seward
+10267857,Exit Glacier Trail,KEFJ,Seward
+10031466,Mist Falls Trail,SEKI,Hume
+10033156,Rae Lakes Trail,SEKI,Cedar Grove
+10028848,Lassen Peak,LAVO,Old Station
+10236155,Kings Creek Falls Trail,LAVO,Old Station
+10236102,Green River Bluffs Trail,MACA,Mammoth Cave
+10234750,Cedar Sink Trail,MACA,Park City
+10033876,Petroglyph Point Trail,MEVE,Mesa Verde National Park
+10012441,Spruce Canyon Trail,MEVE,Mesa Verde National Park
+10007491,Tolmie Peak Trail,MORA,Ashford
+10023187,Skyline Trail,MORA,Paradise Inn
+10027158,Blue Lake Trail,NOCA,Stehekin
+10263280,Cascade Pass and Sahale Arm Trail,NOCA,Rockport
+10032304,Hurricane Hill via Hurricane Ridge,OLYM,Port Angeles
+10004378,Mount Storm King,OLYM,Port Angeles
+10236025,Blue Mesa Trail,PEFO,Holbrook
+10236026,Crystal Forest Trail,PEFO,Petrified Forest National Park
+10013977,Condor Gulch Trail to High Peaks Trail Loop,PINN,Paicines
+10035907,Old Pinnacles Trail Loop,PINN,Soledad
+10026705,Emerald Lake Trail,ROMO,Estes Park
+10235688,Sky Pond via Glacier Gorge Trail,ROMO,Estes Park
+10034910,Bridal Wreath Falls Trail,SAGU,Tucson
+10031380,Wasson Peak Trail,SAGU,Tucson
+10026952,Moro Rock Trail,SEKI,Three Rivers
+10026962,Tokopah Falls via Tokopah Valley Trail,SEKI,Sequoia National Park
+10234159,Old Rag Mountain Loop,SHEN,Syria
+10112236,White Oak Canyon and Cedar Run Trails Loop,SHEN,Syria
+10236044,Wind Canyon Trail,THRO,Fairfield
+10263868,Caprock Coulee Loop,THRO,Watford City
+10269389,Blind Ash Bay Trail,VOYA,Kabetogama
+10269392,Kabetogama Lake Overlook Trail,VOYA,Kabetogama
+10026500,Rankin Ridge Interpretive Trail,WICA,Custer
+10018051,Wind Cave Canyon Trail,WICA,Custer
+10038315,Beaver Ponds Loop Trail,YELL,Gardiner
+10032775,Boiling River Trail,YELL,Gardiner
+10026910,Vernal and Nevada Falls via the Mist Trail,YOSE,Yosemite Valley
+10005895,Upper Yosemite Falls Trail,YOSE,Yosemite Valley
+10012660,The Watchman Trail,ZION,Springdale
+10299979,Crater Hill,ZION,Hurricane

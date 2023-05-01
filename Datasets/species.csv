@@ -1,0 +1,113 @@
+species_id,order,scientific_name,common_names
+100001,Rodentia,Tamias striatus,Northeastern Chipmunk
+100002,Soricomorpha,Sorex cinereus,Masked Shrew
+100003,Chiroptera,Lasionycteris noctivagans,Silver-Haired Bat
+100004,Rodentia,Peromyscus boylii,Brush Mouse
+100005,Rodentia,Reithrodontomys megalotis,Western Harvest Mouse
+100006,Chiroptera,Antrozous pallidus,Pallid Bat
+100007,Carnivora,Mustela nivalis,Weasel
+100008,Rodentia,Microtus ochrogaster,Prairie Vole
+100009,Carnivora,Taxidea taxus,Badger
+100010,Rodentia,Cynomys ludovicianus,Arizona Black-Tailed Prairie Dog
+100011,Chiroptera,Euderma maculatum,Spotted Bat
+100012,Carnivora,Bassariscus astutus,Ringtail
+100013,Chiroptera,Myotis thysanodes,Fringed Myotis
+100014,Carnivora,Lynx rufus,Bobcat
+100015,Carnivora,Procyon lotor,Common Raccoon
+100016,Cetacea,Tursiops truncatus,Bottle-Nosed Dolphin
+100017,Rodentia,Sciurus carolinensis,Eastern Gray Squirrel
+100018,Cetacea,Megaptera novaeangliae,Humpback Whale
+100019,Rodentia,Castor canadensis,American Beaver
+100020,Artiodactyla,Ovis canadensis,Bighorn Sheep
+100021,Lagomorpha,Lepus townsendii,White-Tailed Jackrabbit
+100022,Carnivora,Urocyon cinereoargenteus,Common Gray Fox
+100023,Carnivora,Vulpes vulpes,Red Fox
+100024,Chiroptera,Myotis californicus,California Myotis
+100025,Carnivora,Ursus americanus,American Black Bear
+100026,Rodentia,Neotoma cinerea,Bushy-Tailed Woodrat
+100027,Rodentia,Perognathus parvus,Great Basin Pocket Mouse
+100028,Carnivora,Mephitis mephitis,Striped Skunk
+100029,Lagomorpha,Sylvilagus audubonii,Desert Cottontail
+100032,Chiroptera,Lasiurus cinereus,Hoary Bat
+100033,Soricomorpha,Notiosorex crawfordi,Crawford's Desert Shrew
+100034,Rodentia,Onychomys leucogaster,Northern Grasshopper Mouse
+100035,Chiroptera,Corynorhinus townsendii,Townsend's Big-Eared Bat
+100036,Cetacea,Balaenoptera physalus,Finback Whale
+100038,Cetacea,Eschrichtius robustus,Gray Whale
+100039,Soricomorpha,Scalopus aquaticus,Eastern Mole
+100040,Soricomorpha,Sorex longirostris,Southeastern Shrew
+100041,Carnivora,Mustela vison,Mink
+100043,Rodentia,Microtus richardsoni,Richardson's Vole
+100044,Carnivora,Mustela frenata,Long Tailed Weasel
+100045,Rodentia,Microtus longicaudus,"Long-Tailed Vole, Vole"
+100046,Chiroptera,Myotis sodalis,Indiana Bat
+100047,Rodentia,Tamiasciurus hudsonicus,Red Squirrel
+100049,Rodentia,Lemmus trimucronatus,Brown Lemming
+100050,Carnivora,Ursus arctos,Brown Bear
+100051,Artiodactyla,Rangifer tarandus,Caribou
+100052,Chiroptera,Tadarida brasiliensis,Mexican Free-Tailed Bat
+100053,Carnivora,Canis latrans,Coyote
+100054,Rodentia,Rattus rattus,Black Rat
+100056,Cetacea,Lagenodelphis hosei,Fraser's Dolphin
+100057,Rodentia,Glaucomys volans,Southern Flying Squirrel
+100058,Cetacea,Globicephala macrorhynchus,Short-Finned Pilot Whale
+100059,Carnivora,Puma concolor coryi,Florida Panther
+100060,Carnivora,Lontra canadensis,Land Otter
+100061,Carnivora,Lynx canadensis,Lynx
+100062,Rodentia,Spermophilus richardsonii,Richardson's Ground Squirrel
+100063,Artiodactyla,Oreamnos americanus,Mountain Goat
+100066,Cetacea,Phocoena phocoena,Harbor Porpoise
+100067,Soricomorpha,Sorex monticolus,Dusky Shrew
+100069,Rodentia,Erethizon dorsatum,Porcupine
+100070,Rodentia,Thomomys bottae,Botta Pocket Gopher
+100071,Rodentia,Dipodomys microps,Great Basin Kangaroo Rat
+100074,Chiroptera,Eumops perotis,Greater Bonneted Bat
+100077,Artiodactyla,Antilocapra americana,Pronghorn
+100081,Soricomorpha,Sorex fumeus,Smoky Shrew
+100082,Carnivora,Lutra canadensis,Northern River Otter
+100083,Chiroptera,Pipistrellus subflavus,Eastern Pipistrelle
+100084,Rodentia,Marmota flaviventris,Yellow-Bellied Marmot
+100085,Chiroptera,Myotis volans,Long-Legged Myotis
+100088,Rodentia,Dipodomys merriami,Merriam's Kangaroo Rat
+100089,Artiodactyla,Cervus elaphus,Elk
+100090,Carnivora,Canis familiaris,Domestic Dog
+100091,Artiodactyla,Sus scrofa,Feral Pig
+100093,Rodentia,Mus musculus,House Mouse
+100094,Rodentia,Peromyscus leucopus,White-Footed Deermouse
+100095,Chiroptera,Eptesicus fuscus,Big Brown Bat
+100096,Rodentia,Sigmodon hispidus,Hispid Cotton Rat
+100097,Chiroptera,Myotis lucifugus,Little Brown Bat
+100099,Rodentia,Peromyscus crinitus,Canyon Deermouse
+100100,Rodentia,Neotoma albigula,White-Throated Woodrat
+100101,Rodentia,Chaetodipus spinatus,Spiny Pocket Mouse
+100105,Rodentia,Clethrionomys rutilus,Northern Red-Backed Vole
+100106,Carnivora,Phoca vitulina,Harbor Seal
+100107,Soricomorpha,Sorex tundrensis,Tundra Shrew
+100109,Soricomorpha,Sorex ugyunak,Barren Ground Shrew
+100110,Artiodactyla,Ovis dalli,Dall's Sheep
+100114,Carnivora,Puma concolor,Mountain Lion
+100116,Chiroptera,Perimyotis subflavus,Tri-Colored Bat
+100118,Soricomorpha,Sorex merriami,Merriam's Shrew
+100119,Rodentia,Tamias minimus,Least Chipmunk
+100121,Soricomorpha,Neurotrichus gibbsii,Shrew Mole
+100122,Lagomorpha,Ochotona princeps,Pika
+100123,Soricomorpha,Scapanus orarius,Coast Mole
+100124,Chiroptera,Myotis yumanensis,Yuma Myotis
+100127,Carnivora,Spilogale putorius,Civit Cat
+100129,Carnivora,Vulpes macrotis,Kit Fox
+100131,Artiodactyla,Capra hircus,Domestic Goat
+100133,Soricomorpha,Sorex ornatus,Ornate Shrew
+100136,Artiodactyla,Cervus elaphus roosevelti,Roosevelt Elk
+100137,Chiroptera,Myotis evotis,Long-Eared Myotis
+100140,Chiroptera,Leptonycteris yerbabuenae,Lesser Long-Nosed Bat
+100142,Artiodactyla,Bos taurus,Domestic Cattle
+100144,Rodentia,Tamias merriami,Merriam's Chipmunk
+100145,Carnivora,Mustela erminea,Ermine
+100147,Rodentia,Napaeozapus insignis,Woodland Jumping Mouse
+100149,Rodentia,Microtus pennsylvanicus,Meadow Vole
+100151,Artiodactyla,Alces alces,Moose
+100153,Chiroptera,Myotis septentrionalis,Northern Bat
+100162,Rodentia,Thomomys talpoides,Northern Pocket Gopher
+100163,Artiodactyla,Bison bison,"Bison, Buffalo"
+100164,Soricomorpha,Sorex palustris,Water Shrew
+100166,Rodentia,Peromyscus maniculatus,Deer Mouse
